@@ -1,0 +1,20 @@
+{
+  "livros": [
+    {
+      "id": "0362",
+      "titulo": "Diario de um banana",
+      "autor": "Sr. Banana",
+      "genero": "ficticio",
+      "AnoPublicacao": "1985",
+      "NumeroPaginas": "217"
+    },
+    {
+      "id": "1e50",
+      "titulo": "Harry Potter",
+      "autor": "Não lembro",
+      "genero": "Ficção-científica ",
+      "AnoPublicacao": "1989",
+      "NumeroPaginas": "243"
+    }
+  ]
+}
